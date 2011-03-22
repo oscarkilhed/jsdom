@@ -1,3 +1,5 @@
+Fork to provide a way to force the the encoding of the response.
+
 # jsdom 0.2.0
 
 A javascript implementation of the W3C DOM.
